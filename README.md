@@ -25,8 +25,3 @@ Developed using **PHP** and **MySQL**, this project aims to simplify loan proces
 4. **EMI Calculator**  
 5. **Profile Management**  
 6. **Payment Tracking**  
-
-## Screenshots
-![Login Page](screenshots/Picture1.jpg)  
-![Admin Dashboard](screenshots/Picture2.jpg)  
-![EMI Calculator](screenshots/Picture3.jpg)  
