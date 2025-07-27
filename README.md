@@ -27,14 +27,6 @@ Developed using **PHP** and **MySQL**, this project aims to simplify loan proces
 6. **Payment Tracking**  
 
 ## Screenshots
-(Add your screenshots here, e.g.:)  
-![Login Page](screenshots/login.png)  
-![Admin Dashboard](screenshots/admin_dashboard.png)  
-![EMI Calculator](screenshots/emi_calculator.png)  
-
----
-
-## Installation & Setup
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/yourusername/Loan-Management-System.git
+![Login Page](screenshots/Picture1.jpg)  
+![Admin Dashboard](screenshots/Picture2.jpg)  
+![EMI Calculator](screenshots/Picture3.jpg)  
